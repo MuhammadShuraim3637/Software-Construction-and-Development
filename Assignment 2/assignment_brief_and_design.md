@@ -120,5 +120,5 @@ Checkout complete.
 From the project folder, run:
 
 ```powershell
-python ".\Week 7\shopping_system.py"
+python ".\Assignment 2\shopping_system.py"
 ```
